@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/miguelmg/repositorios/programacion paralela/tarea1/sumatorias/main.cpp
+iostream
+-
+

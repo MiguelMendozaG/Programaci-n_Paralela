@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/miguelmg/repositorios/programacion paralela/tarea1/sumatorias/sumatoria1.cpp
+iostream
+-
+time.h
+-
+
