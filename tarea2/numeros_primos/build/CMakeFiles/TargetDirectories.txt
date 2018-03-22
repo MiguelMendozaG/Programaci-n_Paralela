@@ -1,0 +1,7 @@
+/home/miguelmg/repositorios/programacion paralela/tarea2/numeros_primos/build/CMakeFiles/rebuild_cache.dir
+/home/miguelmg/repositorios/programacion paralela/tarea2/numeros_primos/build/CMakeFiles/install.dir
+/home/miguelmg/repositorios/programacion paralela/tarea2/numeros_primos/build/CMakeFiles/list_install_components.dir
+/home/miguelmg/repositorios/programacion paralela/tarea2/numeros_primos/build/CMakeFiles/numeros_primos.dir
+/home/miguelmg/repositorios/programacion paralela/tarea2/numeros_primos/build/CMakeFiles/edit_cache.dir
+/home/miguelmg/repositorios/programacion paralela/tarea2/numeros_primos/build/CMakeFiles/install/strip.dir
+/home/miguelmg/repositorios/programacion paralela/tarea2/numeros_primos/build/CMakeFiles/install/local.dir

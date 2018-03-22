@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/numeros_primos.dir/main.cpp.o  -o numeros_primos -rdynamic 
