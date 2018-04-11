@@ -1,4 +1,4 @@
-/* 14bhilosjoin.c
+/* sumatoria500_hilo1.c
 Sumatoria hasta 500,000 con un hilo */
 //Miguel Angel Mendoza Guadarrama
 //9 - abril - 2018

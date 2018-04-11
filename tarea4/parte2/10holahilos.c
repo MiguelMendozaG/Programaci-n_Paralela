@@ -4,6 +4,9 @@ referencia a la función hilo implementando tanto valores
 pasados por referencia, como identificador de hilo
 Se requiere la función pthread_join()
 */
+//Miguel Angel Mendoza Guadarrama
+//10 - 04 - 18
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<pthread.h>
