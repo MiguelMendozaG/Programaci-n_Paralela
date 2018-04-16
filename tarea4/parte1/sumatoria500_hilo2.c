@@ -7,7 +7,7 @@ Sumatoria hasta 500,000 con dos hilos */
 #include <pthread.h>
 #define NUM_HILOS 2
 long int sub[NUM_HILOS];
-long int sumatoria= 500000;
+long int sumatoria= 100;
 long int res;
 
 
@@ -15,6 +15,7 @@ void *hilo(void *i) {
     int valor = *((int *)(i));
     long int x,cuenta=0;
     printf("Hola. Soy el hilo: %lu y tengo el valor: %d \n",pthread_self(),valor);
+	
     for(x=0; x<sumatoria/NUM_HILOS;x++)
         cuenta=cuenta+(valor* sumatoria/NUM_HILOS +1)+x;
      printf("El valor de cuenta para el hilo %d es: %ld \n",valor,cuenta);
